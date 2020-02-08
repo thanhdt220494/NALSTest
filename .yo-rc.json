@@ -1,0 +1,36 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.nals.test"
+    },
+    "jhipsterVersion": "6.5.1",
+    "applicationType": "monolith",
+    "baseName": "NALSTest",
+    "packageName": "com.nals.test",
+    "packageFolder": "com/nals/test",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "ZTA5MzMwYTE4MmY1Y2FmNjViN2NkY2NmMzQxMzAzMzI4NDhmMTM4OWU5ZTVjZWY5NjU2NDc3NTFjMDVmNzMxZmY1N2Y5N2RhMjQ3MTVkM2QyYWY0NDU2MDNhYzQyMWM3YmU4YjUzNjk3NDhlYzM0YWRlOGIxMDJhZTlhMjhhMTg=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
